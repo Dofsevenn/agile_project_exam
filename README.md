@@ -1,5 +1,5 @@
 # RESTORE FOR REPAIRABLE
-![RESTORE](/frontend/src/img/logo/restore_logo.png | width=250px)
+![RESTORE](/frontend/src/img/logo/restore_logo.png =250x250)
 
 ## For å kjøre prosjektet (Development Mode):
 * Naviger til 'backend' modulen
