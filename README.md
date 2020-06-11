@@ -1,5 +1,5 @@
 # RESTORE FOR REPAIRABLE
-<img src="/frontend/src/img/logo/restore_logo.png/>a
+<img src="/frontend/src/img/logo/restore_logo.png/>
 
 ## For å kjøre prosjektet (Development Mode):
 * Naviger til 'backend' modulen
