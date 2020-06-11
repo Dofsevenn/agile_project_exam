@@ -1,5 +1,6 @@
 # RESTORE FOR REPAIRABLE
 ![RESTORE](/frontend/src/img/logo/restore_logo.png)
+#       RESTORE
 
 ## For å kjøre prosjektet (Development Mode):
 * Naviger til 'backend' modulen
