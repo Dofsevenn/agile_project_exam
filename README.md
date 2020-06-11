@@ -1,4 +1,5 @@
 # RESTORE FOR REPAIRABLE
+![RESTORE](/frontend/src/img/logo/restore_logo.png)
 <img src="/frontend/src/img/logo/restore_logo.png/>
 
 ## For å kjøre prosjektet (Development Mode):
